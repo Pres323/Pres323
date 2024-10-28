@@ -1,7 +1,7 @@
 ![alt text](https://img3.gelbooru.com/images/d0/5c/d05c9a3a95a51a89e07f3fecc93f88ff.jpg "Logo Title Text 1")
-- 👋 Hi, I’m @Pres323
-- 👀 I’m interested in passing my university classes
-- 🌱 I’m currently learning C++, C and Assembly
+
+ _It is not the critic who counts; not the man who points out how the strong man stumbles, or where the doer of deeds could have done them better. The credit belongs to the man who is actually in the arena, whose face is marred by dust and sweat and blood; who strives valiantly; who errs, who comes short again and again, because there is no effort without error and shortcoming; but who does actually strive to do the deeds; who knows great enthusiasms, the great devotions; who spends himself in a worthy cause; who at the best knows in the end the triumph of high achievement, and who at the worst, if he fails, at least fails while daring greatly, so that his place shall never be with those cold and timid souls who neither know victory nor defeat._
+
 
 
 <!---
